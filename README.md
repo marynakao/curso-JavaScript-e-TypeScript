@@ -8,3 +8,4 @@ O objetivo dos exercícios é a fixação e treinamento do conteúdo das aulas.
   - [const e let](https://github.com/marynakao/curso-JavaScript-e-TypeScript/blob/main/JavaScript/exercicio02.js)
   - [variáveis](https://github.com/marynakao/curso-JavaScript-e-TypeScript/blob/main/JavaScript/exercicio03.js)
   - [strings](https://github.com/marynakao/curso-JavaScript-e-TypeScript/tree/main/JavaScript/exercicio04)
+  - [função, array e objeto](https://github.com/marynakao/curso-JavaScript-e-TypeScript/tree/main/JavaScript/exercicio06)
